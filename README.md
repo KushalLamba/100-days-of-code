@@ -1,1 +1,2 @@
-# 100-days-of-code
+# python
+This repo contain's small projects that i made while learning  python
